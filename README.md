@@ -1,4 +1,4 @@
-<h1 align="center">Salut, moi c’est Ben 👋</h1>
+<h1 align="center">Salut👋</h1>
 
 <p align="center">
   <strong>Ingénierie systèmes · Infrastructure · IAM</strong>
