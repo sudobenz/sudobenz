@@ -33,6 +33,7 @@ Mes sujets de prédilection :
 | [**Keycloak Flow Designer**](https://github.com/sudobenz/keycloak-flow-designer) | Un éditeur web pour concevoir, importer, vérifier et déployer des Authentication Flows Keycloak. |
 | [**K3s Authentik HA Kit**](https://github.com/sudobenz/k3s-authentik-ha-kit) | Un kit documenté autour d’une architecture Authentik haute disponibilité sur K3s. |
 | [**K3s Keycloak HA Kit**](https://github.com/sudobenz/k3s-keycloak-ha-kit) | Son pendant dédié à Keycloak, avec une approche haute disponibilité sur K3s. |
+| [**Keycloak Studio**](https://github.com/sudobenz/keycloak-theme-studio) | Un éditeur web pour concevoir rapidement ses propres thèmes Keycloak. |
 
 ### Infrastructure & outillage
 
